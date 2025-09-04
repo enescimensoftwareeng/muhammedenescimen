@@ -20,9 +20,8 @@ Bu repo benim **yazılım portföyüm ve projelerim** hakkında bilgi içeriyor.
 ---
 
 ## 📂 Öne Çıkan Projeler
-- [Proje 1](#) – Laravel tabanlı web uygulaması  
-- [Proje 2](#) – HTML/CSS/JS interaktif site  
-- [Proje 3](#) – MySQL ile veri tabanlı sistem  
+- [Trabzon İnci Akademi](https://trabzoninciakademi.com.tr) – MySQL ile veri tabanlı sistem ve  HTML/CSS/JS interaktif site
+- [Kripto Sohbeti](https://kriptosohbeti.com.tr) – MySQL ile veri tabanlı sistem ve  HTML/CSS/JS interaktif site  
 
 ---
 
