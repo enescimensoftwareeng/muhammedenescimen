@@ -1,7 +1,6 @@
 # Merhaba, Ben Muhammed Enes Çimen 👋
 
-Ben bir **Full-Stack Web Geliştiricisiyim** ve modern web teknolojileri kullanarak projeler geliştiriyorum.  
-Bu repo benim **yazılım portföyüm ve projelerim** hakkında bilgi içeriyor.
+Ben bir **Full-Stack Web Geliştiricisiyim** ve modern web teknolojileri kullanarak profesyonel projeler geliştiriyorum. Bu repo, benim yazılım portföyüm, yetkinliklerim ve üzerinde çalıştığım projeler hakkında bilgiler içermektedir.
 
 ---
 
@@ -23,11 +22,19 @@ Bu repo benim **yazılım portföyüm ve projelerim** hakkında bilgi içeriyor.
 ---
 
 ## 📂 Öne Çıkan Projeler
-- [Trabzon İnci Akademi](https://trabzoninciakademi.com.tr) – MySQL tabanlı sistem ve HTML/CSS/JS ile geliştirilmiş interaktif web sitesi  
-- [Kripto Sohbeti](https://kriptosohbeti.com.tr) – MySQL tabanlı sistem ve HTML/CSS/JS ile geliştirilmiş interaktif platform  
+
+### 🚀 Yeni & Canlıdaki Projeler
+- [Gazete Fırat](https://gazete.firat.edu.tr/) – Fırat Üniversitesi bünyesinde yayın yapan güncel haber ve içerik platformu.
+- [Fırat Üniversitesi Yanında](https://yaninda.firat.edu.tr/tr/dashboard) – Öğrenci ve yönetim süreçlerini kolaylaştıran interaktif dashboard platformu.
+- [Fırat Üniversitesi İŞKUR Uygulaması](https://iskurapp.firat.edu.tr/) – Kariyer ve iş olanaklarını takip eden özel otomasyon sistemi.
+- [Trabzon İnci Akademi](https://trabzoninciakademi.com.tr) – MySQL tabanlı sistem ve HTML/CSS/JS ile geliştirilmiş eğitim platformu.
+- [Kripto Sohbeti](https://kriptosohbeti.com.tr) – Topluluk odaklı, MySQL tabanlı interaktif içerik platformu.
 
 ---
 
 ## 📫 Bana Ulaşın
-- 📧 E-posta: [enessoftwareeng@gmail.com](mailto:enessoftwareeng@gmail.com)  
-- 🌐 Portfolio: [enescimen.dev](#) *(React, Java ve C projeleri içermektedir)*  
+- 📧 E-posta: [enessoftwareeng@gmail.com](mailto:enessoftwareeng@gmail.com)
+- 💼 LinkedIn: [Muhammed Enes Çimen](https://www.linkedin.com/in/senin-profil-linkin)
+
+---
+*Bu profil düzenli olarak yeni projelerle güncellenmektedir.*
